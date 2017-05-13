@@ -3,7 +3,7 @@ This is a minimal React starter with hot reload configured.
 # Stack
 - Webpack 2
 - React
-- react-hot-reload
+- [gaearon/react-hot-loader](https://github.com/gaearon/react-hot-loader)
 - css-loader (for css module)
 - Bootstrap CDN
 
